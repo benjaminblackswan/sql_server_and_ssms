@@ -9,20 +9,22 @@ Excel Version: **IMPORTANT** : 2007-2010
 
 <img width="640" height="551" alt="image" src="https://github.com/user-attachments/assets/cf39d22b-c923-4561-92fd-b33d4eef738c" />
 
-Destination: Microsoft OLE DB **Provider** for SQL Server
+Destination: Microsoft OLE DB **Provider** for SQL Server.
+
+
+<img width="635" height="545" alt="image" src="https://github.com/user-attachments/assets/e5403ab1-8240-40cb-a4e4-8b86382f533c" />
+
+Then click **property**
 
 Server Name: legion (do not choose localhost)
 
-<img width="635" height="547" alt="image" src="https://github.com/user-attachments/assets/fdb99180-bf97-4a16-b0e0-330eb0ed8564" />
+<img width="364" height="468" alt="image" src="https://github.com/user-attachments/assets/fcf47085-858e-4354-8c09-cbbc8d655de4" />
 
+<img width="640" height="548" alt="image" src="https://github.com/user-attachments/assets/eded5c62-f973-49f8-959c-611db3d44e2b" />
 
-choose your destination schema and table name.
+<img width="636" height="549" alt="image" src="https://github.com/user-attachments/assets/e6f0307f-336e-4bc8-9628-482d91162855" />
 
-<img width="641" height="551" alt="image" src="https://github.com/user-attachments/assets/f707a899-d1b1-43e6-b720-05b9fecc5bc4" />
+<img width="637" height="549" alt="image" src="https://github.com/user-attachments/assets/9f5e39aa-8161-400e-b5be-f6a6298ff6e1" />
 
+<img width="633" height="543" alt="image" src="https://github.com/user-attachments/assets/fa9d4ea8-9815-49f2-8f36-8162f9d20e8e" />
 
-Edit Mappings...
-
-note: you must change the data type in Excel if you wish to change source data type.
-
-<img width="600" height="506" alt="image" src="https://github.com/user-attachments/assets/3cf33c23-1b7c-4e39-9f8e-46acfd0cd5e3" />
